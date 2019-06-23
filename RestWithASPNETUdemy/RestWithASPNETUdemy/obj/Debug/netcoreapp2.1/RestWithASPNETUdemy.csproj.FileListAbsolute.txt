@@ -1,0 +1,14 @@
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.deps.json
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.json
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.dev.json
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csprojAssemblyReference.cache
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csproj.CoreCompileInputs.cache
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cache
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cs
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfoInputs.cache
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfo.cs
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorTargetAssemblyInfo.cache
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+D:\Dados\OneDrive\Documentos2\Curso C# Udemy\Nova pasta (2)\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
